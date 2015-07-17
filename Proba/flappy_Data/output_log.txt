@@ -1,0 +1,84 @@
+Mono path[0] = 'E:/Gir_project/PlanetDefense - Копія/Proba/flappy_Data/Managed'
+Mono path[1] = 'E:/Gir_project/PlanetDefense - Копія/Proba/flappy_Data/Mono'
+Mono config path = 'E:/Gir_project/PlanetDefense - Копія/Proba/flappy_Data/Mono/etc'
+PlayerConnection initialized from E:/Gir_project/PlanetDefense - Копія/Proba/flappy_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55298
+Broadcasting "[IP] 169.254.64.155 [Port] 55298 [Flags] 2 [Guid] 2904620464 [EditorId] 1690949907 [Version] 1048832 [Id] WindowsPlayer(HPPAVILION-PC) [Debug] 0" to [169.254.255.255:54997]...
+PlayerConnection already initialized - listening to [169.254.64.155:55298]
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: ATI Mobility Radeon HD 4650 (ID=0x9480)
+    Vendor:   ATI
+    VRAM:     1018 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Gir_project\PlanetDefense - Копія\Proba\flappy_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Gir_project\PlanetDefense - Копія\Proba\flappy_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Gir_project\PlanetDefense - Копія\Proba\flappy_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Gir_project\PlanetDefense - Копія\Proba\flappy_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Gir_project\PlanetDefense - Копія\Proba\flappy_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Gir_project\PlanetDefense - Копія\Proba\flappy_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Gir_project\PlanetDefense - Копія\Proba\flappy_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Gir_project\PlanetDefense - Копія\Proba\flappy_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Gir_project\PlanetDefense - Копія\Proba\flappy_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\Gir_project\PlanetDefense - Копія\Proba\flappy_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: E:\Gir_project\PlanetDefense - Копія\Proba\flappy_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Gir_project\PlanetDefense - Копія\Proba\flappy_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Gir_project\PlanetDefense - Копія\Proba\flappy_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Gir_project\PlanetDefense - Копія\Proba\flappy_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.108 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\Gir_project\PlanetDefense - Копія\Proba\flappy_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Gir_project\PlanetDefense - Копія\Proba\flappy_Data\Managed\System.dll (this message is harmless)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.820876 ms
+System memory in use before: 11.6 MB.
+System memory in use after: 11.6 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 242.
+Total: 0.220818 ms (FindLiveObjects: 0.043353 ms CreateObjectMapping: 0.024310 ms MarkObjects: 0.139378 ms  DeleteObjects: 0.007698 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.616264 ms
+System memory in use before: 11.6 MB.
+System memory in use after: 11.6 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 242.
+Total: 0.166930 ms (FindLiveObjects: 0.025525 ms CreateObjectMapping: 0.015396 ms MarkObjects: 0.114258 ms  DeleteObjects: 0.006077 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.837488 ms
+System memory in use before: 11.6 MB.
+System memory in use after: 11.6 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 242.
+Total: 0.228921 ms (FindLiveObjects: 0.033224 ms CreateObjectMapping: 0.023094 ms MarkObjects: 0.155585 ms  DeleteObjects: 0.009318 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.643411 ms
+System memory in use before: 11.6 MB.
+System memory in use after: 11.6 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 242.
+Total: 0.185568 ms (FindLiveObjects: 0.032818 ms CreateObjectMapping: 0.015396 ms MarkObjects: 0.123577 ms  DeleteObjects: 0.006887 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.843160 ms
+System memory in use before: 11.6 MB.
+System memory in use after: 11.6 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 242.
+Total: 0.217576 ms (FindLiveObjects: 0.028767 ms CreateObjectMapping: 0.023094 ms MarkObjects: 0.149508 ms  DeleteObjects: 0.008913 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.871522 ms
+System memory in use before: 11.6 MB.
+System memory in use after: 11.6 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 242.
+Total: 0.214740 ms (FindLiveObjects: 0.028361 ms CreateObjectMapping: 0.023094 ms MarkObjects: 0.147482 ms  DeleteObjects: 0.008508 ms)
+

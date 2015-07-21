@@ -2,9 +2,9 @@ Mono path[0] = 'E:/Gir_project/PlanetDefense - Копія/Proba/planet_Data/Mana
 Mono path[1] = 'E:/Gir_project/PlanetDefense - Копія/Proba/planet_Data/Mono'
 Mono config path = 'E:/Gir_project/PlanetDefense - Копія/Proba/planet_Data/Mono/etc'
 PlayerConnection initialized from E:/Gir_project/PlanetDefense - Копія/Proba/planet_Data (debug = 0)
-PlayerConnection initialized network socket : 0.0.0.0 55332
-Multi-casting "[IP] 192.168.0.26 [Port] 55332 [Flags] 2 [Guid] 1552287426 [EditorId] 2345473253 [Version] 1048832 [Id] WindowsPlayer(HPPAVILION-PC) [Debug] 0" to [225.0.0.222:54997]...
-PlayerConnection already initialized - listening to [192.168.0.26:55332]
+PlayerConnection initialized network socket : 0.0.0.0 55297
+Multi-casting "[IP] 192.168.0.100 [Port] 55297 [Flags] 2 [Guid] 4200179354 [EditorId] 2771735478 [Version] 1048832 [Id] WindowsPlayer(HPPAVILION-PC) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.0.100:55297]
 Initialize engine version: 5.1.1f1 (2046fc06d4d8)
 GfxDevice: creating device client; threaded=1
 Direct3D:
@@ -23,7 +23,7 @@ Platform assembly: E:\Gir_project\PlanetDefense - Копія\Proba\planet_Data\M
 Loading E:\Gir_project\PlanetDefense - Копія\Proba\planet_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: E:\Gir_project\PlanetDefense - Копія\Proba\planet_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading E:\Gir_project\PlanetDefense - Копія\Proba\planet_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.099 seconds
+- Completed reload, in  0.095 seconds
 desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
@@ -55,10 +55,10 @@ UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Exte
 (Filename: E:/Gir_project/PlanetDefense - Копія/Proba/Assets/mygame/Scripts/Menu_Event/StartOptions.cs Line: 94)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.072338 ms
+UnloadTime: 3.775801 ms
 System memory in use before: 14.3 MB.
 System memory in use after: 14.3 MB.
 
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 198.
-Total: 0.512131 ms (FindLiveObjects: 0.036059 ms CreateObjectMapping: 0.022689 ms MarkObjects: 0.213523 ms  DeleteObjects: 0.234186 ms)
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 199.
+Total: 0.548198 ms (FindLiveObjects: 0.046189 ms CreateObjectMapping: 0.025525 ms MarkObjects: 0.231758 ms  DeleteObjects: 0.239051 ms)
 

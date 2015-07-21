@@ -85,6 +85,8 @@
      <Compile Include="Assets\mygame\Scripts\Menu_Event\ShowPanels.cs" />
      <Compile Include="Assets\mygame\Scripts\Menu_Event\ShowRecords.cs" />
      <Compile Include="Assets\mygame\Scripts\Menu_Event\StartOptions.cs" />
+     <Compile Include="Assets\mygame\Scripts\Spawn\Ast_Spawn.cs" />
+     <Compile Include="Assets\mygame\Scripts\game_lvl1.cs" />
      <None Include="Assets\Example Games\Flappy Bird Style\_ReadMe.txt" />
      <None Include="Assets\mygame\Fonts\OpenSans\License!.txt" />
      <None Include="Assets\Fonts\LuckiestGuy\LICENSE.txt" />

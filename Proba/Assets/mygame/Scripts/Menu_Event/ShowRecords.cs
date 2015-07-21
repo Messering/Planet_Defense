@@ -7,7 +7,12 @@ public class ShowRecords : MonoBehaviour {
 	void Start () {
 	
 	}
+
+	public void RecordsButtonClicked()
+	{
 	
+		
+	}
 	// Update is called once per frame
 	void Update () {
 	

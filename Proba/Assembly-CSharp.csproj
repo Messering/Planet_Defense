@@ -85,6 +85,9 @@
      <Compile Include="Assets\mygame\Scripts\Menu_Event\ShowPanels.cs" />
      <Compile Include="Assets\mygame\Scripts\Menu_Event\ShowRecords.cs" />
      <Compile Include="Assets\mygame\Scripts\Menu_Event\StartOptions.cs" />
+     <Compile Include="Assets\mygame\Scripts\Move\Move.cs" />
+     <Compile Include="Assets\mygame\Scripts\Move\Move1.cs" />
+     <Compile Include="Assets\mygame\Scripts\Move\MovingObject.cs" />
      <Compile Include="Assets\mygame\Scripts\Spawn\Ast_Spawn.cs" />
      <Compile Include="Assets\mygame\Scripts\game_lvl1.cs" />
      <None Include="Assets\Example Games\Flappy Bird Style\_ReadMe.txt" />

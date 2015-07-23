@@ -1,11 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\mygame\Scripts\Spawn\Ast_Spawn.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\mygame\Scripts\Spawn\GameManager.cs">
     <Files>
-      <File FileName="Assets\mygame\Scripts\Spawn\Ast_Spawn.cs" Line="1" Column="1" />
-      <File FileName="Assets\Example Games\Flappy Bird Style\Scripts\BirdScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\mygame\Scripts\Move\MovingObject.cs" Line="1" Column="1" />
-      <File FileName="Assets\mygame\Scripts\Move\Move1.cs" Line="12" Column="6" />
+      <File FileName="Assets\mygame\Scripts\Spawn\GameManager.cs" Line="45" Column="5" />
+      <File FileName="Assets\mygame\Scripts\Move\Move1.cs" Line="29" Column="3" />
+      <File FileName="Assets\mygame\Scripts\Colli\Collision.cs" Line="15" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

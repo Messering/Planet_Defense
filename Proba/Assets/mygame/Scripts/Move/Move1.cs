@@ -3,9 +3,11 @@ using System.Collections;
 
 public class Move1 : MonoBehaviour {
 	public GameObject planet;
-	public int x = 3, y = 3, z = 1,a=0;
+	public int x = 3, y = 3, z = 1;
 	public Vector3 pointB;
 	public float speed;
+	private int a=3;
+
 	IEnumerator Start () {
 
 		Vector3 pointA = transform.position;
@@ -20,13 +22,16 @@ public class Move1 : MonoBehaviour {
 		float i = 0.0f;
 		float rate = 1.0f / time;
 		while (true) {
+
 			i += Time.deltaTime * rate;
 			thisTransform.position = Vector3.Lerp(startPos, endPos, i*speed);
 			if (this.gameObject.transform.position.x==0 && this.gameObject.transform.position.y==0 ){
 				Destroy(this.gameObject);
 				++a;
 			//if (this.gameObject.transform.position.x==0 && this.gameObject.transform.position.y==0 ){
-//				planet.transform.localScale= new Vector3(x+a,y+a,z);
+			//planet.transform.localScale= new Vector3(a,a,1);
+
+				
 			}
 			yield return null; 	
 	}

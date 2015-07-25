@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\DestroyByClick.cs" />
      <Compile Include="Assets\Example Games\2D Scrolling Shooter\Scripts\Background.cs" />
      <Compile Include="Assets\Example Games\2D Scrolling Shooter\Scripts\Bullet.cs" />
      <Compile Include="Assets\Example Games\2D Scrolling Shooter\Scripts\DestroyArea.cs" />
@@ -90,8 +91,6 @@
      <Compile Include="Assets\mygame\Scripts\Move\Move1.cs" />
      <Compile Include="Assets\mygame\Scripts\Move\MovingObject.cs" />
      <Compile Include="Assets\mygame\Scripts\Spawn\GameManager.cs" />
-     <Compile Include="Assets\mygame\Scripts\destriy\destroy.cs" />
-     <Compile Include="Assets\mygame\Scripts\destriy\game_lvl1.cs" />
      <None Include="Assets\Example Games\Flappy Bird Style\_ReadMe.txt" />
      <None Include="Assets\mygame\Fonts\OpenSans\License!.txt" />
      <None Include="Assets\Fonts\LuckiestGuy\LICENSE.txt" />

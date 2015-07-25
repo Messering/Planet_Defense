@@ -5,11 +5,11 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{649CE462-1EE9-C53F-C232-DAF9286292C2}</ProjectGuid>
+	<ProjectGuid>{6DBEE932-A204-5EEF-1F64-6D3B6F113237}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
-	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<AssemblyName>Assembly-UnityScript</AssemblyName>
 	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
 	<FileAlignment>512</FileAlignment>
 	<BaseDirectory>Assets</BaseDirectory>
@@ -46,51 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\DestroyByClick.cs" />
-     <Compile Include="Assets\Example Games\2D Scrolling Shooter\Scripts\Background.cs" />
-     <Compile Include="Assets\Example Games\2D Scrolling Shooter\Scripts\Bullet.cs" />
-     <Compile Include="Assets\Example Games\2D Scrolling Shooter\Scripts\DestroyArea.cs" />
-     <Compile Include="Assets\Example Games\2D Scrolling Shooter\Scripts\Emitter.cs" />
-     <Compile Include="Assets\Example Games\2D Scrolling Shooter\Scripts\Enemy.cs" />
-     <Compile Include="Assets\Example Games\2D Scrolling Shooter\Scripts\Explosion.cs" />
-     <Compile Include="Assets\Example Games\2D Scrolling Shooter\Scripts\Manager.cs" />
-     <Compile Include="Assets\Example Games\2D Scrolling Shooter\Scripts\ObjectPool.cs" />
-     <Compile Include="Assets\Example Games\2D Scrolling Shooter\Scripts\Player.cs" />
-     <Compile Include="Assets\Example Games\2D Scrolling Shooter\Scripts\ShipResetScript.cs" />
-     <Compile Include="Assets\Example Games\2D Scrolling Shooter\Scripts\Spaceship.cs" />
-     <Compile Include="Assets\Example Games\2D Scrolling Shooter\Scripts\WaveScript.cs" />
-     <Compile Include="Assets\Example Games\Angry Birds Style\Scripts\ProjectileDragging.cs" />
-     <Compile Include="Assets\Example Games\Angry Birds Style\Scripts\ProjectileFollow.cs" />
-     <Compile Include="Assets\Example Games\Angry Birds Style\Scripts\Resetter.cs" />
-     <Compile Include="Assets\Example Games\Angry Birds Style\Scripts\TargetDamage.cs" />
-     <Compile Include="Assets\Example Games\Flappy Bird Style\Scripts\BirdScript.cs" />
-     <Compile Include="Assets\Example Games\Flappy Bird Style\Scripts\CameraFollow.cs" />
-     <Compile Include="Assets\Example Games\Flappy Bird Style\Scripts\ColumnScript.cs" />
-     <Compile Include="Assets\Example Games\Flappy Bird Style\Scripts\ColumnSpawnScript.cs" />
-     <Compile Include="Assets\Example Games\Flappy Bird Style\Scripts\GameControlScript.cs" />
-     <Compile Include="Assets\Example Games\Flappy Bird Style\Scripts\ScrollScript.cs" />
-     <Compile Include="Assets\Example Games\Hat Trick - The Catch Game\Scripts\HT_DestroyOnContact.cs" />
-     <Compile Include="Assets\Example Games\Hat Trick - The Catch Game\Scripts\HT_Explode.cs" />
-     <Compile Include="Assets\Example Games\Hat Trick - The Catch Game\Scripts\HT_GameController.cs" />
-     <Compile Include="Assets\Example Games\Hat Trick - The Catch Game\Scripts\HT_HatController.cs" />
-     <Compile Include="Assets\Example Games\Hat Trick - The Catch Game\Scripts\HT_Restart.cs" />
-     <Compile Include="Assets\Example Games\Hat Trick - The Catch Game\Scripts\HT_Score.cs" />
-     <Compile Include="Assets\Example Games\Hat Trick - The Catch Game\Scripts\HT_SetParticleSortingLayer.cs" />
-     <Compile Include="Assets\Example Games\Hat Trick - The Catch Game\Scripts\HT_StartGame.cs" />
-     <Compile Include="Assets\mygame\Scripts\Colli\Coll.cs" />
-     <Compile Include="Assets\mygame\Scripts\Menu_Event\DontDestroy.cs" />
-     <Compile Include="Assets\mygame\Scripts\Menu_Event\EventSystemChecker.cs" />
-     <Compile Include="Assets\mygame\Scripts\Menu_Event\Pause.cs" />
-     <Compile Include="Assets\mygame\Scripts\Menu_Event\PlayMusic.cs" />
-     <Compile Include="Assets\mygame\Scripts\Menu_Event\QuitApplication.cs" />
-     <Compile Include="Assets\mygame\Scripts\Menu_Event\SetAudioLevels.cs" />
-     <Compile Include="Assets\mygame\Scripts\Menu_Event\ShowPanels.cs" />
-     <Compile Include="Assets\mygame\Scripts\Menu_Event\ShowRecords.cs" />
-     <Compile Include="Assets\mygame\Scripts\Menu_Event\StartOptions.cs" />
-     <Compile Include="Assets\mygame\Scripts\Move\Move.cs" />
-     <Compile Include="Assets\mygame\Scripts\Move\Move1.cs" />
-     <Compile Include="Assets\mygame\Scripts\Move\MovingObject.cs" />
-     <Compile Include="Assets\mygame\Scripts\Spawn\GameManager.cs" />
+     <Compile Include="Assets\mygame\Scripts\enemy.js" />
      <None Include="Assets\Example Games\Flappy Bird Style\_ReadMe.txt" />
      <None Include="Assets\mygame\Fonts\OpenSans\License!.txt" />
      <None Include="Assets\Fonts\LuckiestGuy\LICENSE.txt" />

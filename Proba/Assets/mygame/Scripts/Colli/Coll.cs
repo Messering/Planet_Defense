@@ -13,19 +13,16 @@ public class Coll : MonoBehaviour {
 		Destroy (other.gameObject);
 
 		if (other.name == "Bird(Clone)") {
-			a += b.mass / 2;
-			print (a);
+			a += b.mass / 5;
+
 		}
 
 		if( other.name =="Bird1(Clone)"){
-				a += d.mass/2;
-				print (a);
+				a += d.mass/5;
 			}
 		if( other.name =="Bird2(Clone)"){
-				a += c.mass/2;
-				print (a);
+				a += c.mass/5;
 			}
-
 
 		planet.transform.localScale = new Vector2 (a,a);
 

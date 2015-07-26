@@ -25,14 +25,7 @@ public class Move1 : MonoBehaviour {
 
 			i += Time.deltaTime * rate;
 			thisTransform.position = Vector3.Lerp(startPos, endPos, i*speed);
-			if (this.gameObject.transform.position.x==0 && this.gameObject.transform.position.y==0 ){
-				Destroy(this.gameObject);
-				++a;
-			//if (this.gameObject.transform.position.x==0 && this.gameObject.transform.position.y==0 ){
-			//planet.transform.localScale= new Vector3(a,a,1);
 
-				
-			}
 			yield return null; 	
 	}
 }

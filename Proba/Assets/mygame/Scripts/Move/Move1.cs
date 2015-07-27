@@ -6,7 +6,6 @@ public class Move1 : MonoBehaviour {
 	public int x = 3, y = 3, z = 1;
 	public Vector3 pointB;
 	public float speed;
-	private int a=3;
 
 	IEnumerator Start () {
 

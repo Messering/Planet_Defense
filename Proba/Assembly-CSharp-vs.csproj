@@ -77,7 +77,10 @@
      <Compile Include="Assets\Example Games\Hat Trick - The Catch Game\Scripts\HT_SetParticleSortingLayer.cs" />
      <Compile Include="Assets\Example Games\Hat Trick - The Catch Game\Scripts\HT_StartGame.cs" />
      <Compile Include="Assets\mygame\Scripts\Colli\Coll.cs" />
+     <Compile Include="Assets\mygame\Scripts\Colli\ManagerScore.cs" />
+     <Compile Include="Assets\mygame\Scripts\Colli\ManagerTime.cs" />
      <Compile Include="Assets\mygame\Scripts\Colli\die.cs" />
+     <Compile Include="Assets\mygame\Scripts\Colli\timer.cs" />
      <Compile Include="Assets\mygame\Scripts\Game over menu\MainMenu.cs" />
      <Compile Include="Assets\mygame\Scripts\Game over menu\Restart.cs" />
      <Compile Include="Assets\mygame\Scripts\Menu_Event\DontDestroy.cs" />

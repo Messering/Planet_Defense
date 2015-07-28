@@ -3,6 +3,7 @@ using System.Collections;
 
 public class GameManager : MonoBehaviour 
 {
+	public GameObject planet;
 	public Transform[] spawnPoints; // точки спауну
 	public GameObject[] enemyPrefabs; // масив обєктів які спамитумуться
 	private GameObject[] spawn_obj; //масив де зберігаються всі заспамлені обєкти
@@ -44,9 +45,13 @@ public class GameManager : MonoBehaviour
 	{
 		for (int i = 0; i < amountEnemies; i++)
 		{
+
 			GameObject obj = enemyPrefabs[Random.Range(0, enemyPrefabs.Length)]; 
 			Transform pos = spawnPoints[Random.Range(0, spawnPoints.Length)]; 
 			Instantiate(obj, pos.position, pos.rotation); 
+
+					
+
 
 			yield return new WaitForSeconds(Random.Range(yieldTimeMin, yieldTimeMax));
 		}

@@ -14,7 +14,6 @@ public class Coll : MonoBehaviour {
 
 		if (other.name == "Bird(Clone)") {
 			a += b.mass / 5;
-
 		}
 
 		if( other.name =="Bird1(Clone)"){
@@ -25,6 +24,5 @@ public class Coll : MonoBehaviour {
 			}
 
 		planet.transform.localScale = new Vector2 (a,a);
-
 	}
 }

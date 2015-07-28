@@ -14,6 +14,7 @@ public class Move1 : MonoBehaviour {
 
 			yield return StartCoroutine(MoveObject(transform, pointA, pointB, (float) 3.0));
 			//yield return StartCoroutine(MoveObject(transform, pointB, pointA, (float) 3.0));
+
 		}
 	}
 	
@@ -26,6 +27,6 @@ public class Move1 : MonoBehaviour {
 			thisTransform.position = Vector3.Lerp(startPos, endPos, i*speed);
 
 			yield return null; 	
+		}
 	}
-}
 }
